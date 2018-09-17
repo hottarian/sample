@@ -32,3 +32,7 @@ print(list_max)
 
 if num<10 :
     list_max.pop(1)
+
+
+else :
+    print("明日また遊ぶ")
