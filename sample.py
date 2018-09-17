@@ -18,7 +18,7 @@ else :
 list_max =[1,2,3,4]
 print (list_max)
 
-list_len = len(list_max)
+list_len = len(list_max){key: value for key, value in variable}
 print(list_len)
 
 list_max.append(5)
@@ -31,9 +31,5 @@ list_max.pop(4)
 print(list_max)
 
 if num<10 :
-    list_max.pop(1)
 
-
-else :
-    print("明日また遊ぶ")
-fd
+    print("mac")
