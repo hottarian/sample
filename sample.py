@@ -36,3 +36,4 @@ if num<10 :
 
 else :
     print("明日また遊ぶ")
+fd
