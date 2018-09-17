@@ -33,3 +33,4 @@ print(list_max)
 if num<10 :
 
     print("mac")
+    print("windows")
